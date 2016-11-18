@@ -1,5 +1,5 @@
 <template>
-	<div class="content">
+	<div>
 		<div class="background">
 			<img :src="backgroundImg" class="background-img" />
 		</div>
@@ -20,20 +20,8 @@
 		data() {
 			return {
 				Gallery: Gallery,
-//				backgroundImg: 'http://mpy.eu5.org/gallery/lemon/1.jpg',
+				backgroundImg: 'http://mpy.eu5.org/gallery/lemon/1.jpg',
 				lights: true
-			}
-		},
-		methods: {},
-		events: {
-			'nowPlaying': function (src) {
-				this.backgroundImg = src;
-			},
-			'lightsOn': function () {
-				this.lights = true;
-			},
-			'lightsOff': function () {
-				this.lights = false;
 			}
 		}
 	}

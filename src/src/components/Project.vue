@@ -20,7 +20,7 @@
 		},
 		mounted() {
 			this.loadProject();
-			this.$emit('nowPlaying', this.project.gallery[0].src);
+			this.$parent.backgroundImg = this.project.gallery[0].src;
 		},
 		data() {
 			return {
@@ -42,9 +42,8 @@
 				lightsOff(index) {
 					this.index = index;
 					this.darkroom = true;
-					this.$emit('lightsOff');
 					this.$parent.lights = false;
-					this.$emit('nowPlaying', this.project.gallery[index].src);
+					this.$parent.backgroundImg = this.project.gallery[index].src;
 				}
 		},
 		events: {

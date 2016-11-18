@@ -33,12 +33,12 @@
 		},
 		methods: {
 			lightsOn() {
-				this.$emit('lightsOn');
+				this.$parent.$parent.lights = false;
 				this.$parent.darkroom = false
 			},
 			change() {
 				this.hero = this.project.gallery[this.idx].src
-				this.$emit('nowPlaying', this.hero);
+				this.$parent.$parent.backgroundImg = this.hero;
 			},
 			prev() {
 				if (this.idx > 0) {
