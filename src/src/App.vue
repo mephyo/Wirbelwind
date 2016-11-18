@@ -20,7 +20,7 @@
 		data() {
 			return {
 				Gallery: Gallery,
-				backgroundImg: 'http://mpy.eu5.org/gallery/lemon/1.jpg',
+//				backgroundImg: 'http://mpy.eu5.org/gallery/lemon/1.jpg',
 				lights: true
 			}
 		},

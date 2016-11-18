@@ -1,11 +1,8 @@
 <template>
-	<div class="content">
-		<div class="go-home" v-link="{name:'Overture'}">
-			<div class="icon-home"></div>
-		</div>
+	<div>
 		<ul class="gallery" :class="{'ghost blurred': darkroom}">
-			<li v-for="photo in project.gallery">
-				<img :src="photo.src" @click="lightsOff($index)" />
+			<li v-for="photo, index in project.gallery">
+				<img :src="photo.src" @click="lightsOff(index)" />
 				<div class="title" v-if="photo.title">{{photo.title}}</div>
 			</li>
 		</ul>
@@ -21,9 +18,9 @@
 		components: {
 			Darkroom
 		},
-		ready() {
+		mounted() {
 			this.loadProject();
-			this.$dispatch('nowPlaying', this.project.gallery[0].src);
+			this.$emit('nowPlaying', this.project.gallery[0].src);
 		},
 		data() {
 			return {
@@ -45,8 +42,9 @@
 				lightsOff(index) {
 					this.index = index;
 					this.darkroom = true;
-					this.$dispatch('lightsOff');
-					this.$dispatch('nowPlaying', this.project.gallery[index].src);
+					this.$emit('lightsOff');
+					this.$parent.lights = false;
+					this.$emit('nowPlaying', this.project.gallery[index].src);
 				}
 		},
 		events: {

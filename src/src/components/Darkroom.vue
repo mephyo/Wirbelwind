@@ -1,14 +1,14 @@
 <template>
 	<div class="darkroom">
-		<img :src="hero" />
+		<img :src="hero" v-touch:swiperight="prev" v-touch:swipeleft="next" v-touch:swipedown="lightsOn"/>
 		<ul class="actions">
-			<li @click="prev" :class="{'ghost': this.index <= 0}">
+			<li @click="prev" :class="{'ghost': this.idx <= 0}">
 				<div class="icon-arrow-right"></div>
 			</li>
 			<li @click="lightsOn">
 				<div class="icon-close"></div>
 			</li>
-			<li @click="next" :class="{'ghost': this.index >= this.project.gallery.length - 1}">
+			<li @click="next" :class="{'ghost': this.idx >= this.project.gallery.length - 1}">
 				<div class="icon-arrow-left"></div>
 			</li>
 		</ul>
@@ -22,7 +22,8 @@
 			project: [Object],
 			index: Number
 		},
-		ready() {
+		mounted() {
+			this.idx = this.index
 			this.change();
 		},
 		data() {
@@ -32,21 +33,22 @@
 		},
 		methods: {
 			lightsOn() {
-				this.$dispatch('lightsOn');
+				this.$emit('lightsOn');
+				this.$parent.darkroom = false
 			},
 			change() {
-				this.hero = this.project.gallery[this.index].src
-				this.$dispatch('nowPlaying', this.hero);
+				this.hero = this.project.gallery[this.idx].src
+				this.$emit('nowPlaying', this.hero);
 			},
 			prev() {
-				if (this.index > 0) {
-					this.index = this.index - 1;
+				if (this.idx > 0) {
+					this.idx --;
 					this.change();
 				}
 			},
 			next() {
-				if (this.index < this.project.gallery.length - 1) {
-					this.index = this.index + 1;
+				if (this.idx < this.project.gallery.length - 1) {
+					this.idx ++;
 					this.change();
 				}
 			}

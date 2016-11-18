@@ -16,7 +16,7 @@
 		},
 		methods: {
 			goProject(codeName) {
-				this.$route.router.go({
+				this.$router.push({
 					name: 'Project',
 					params: {
 						codeName: codeName
