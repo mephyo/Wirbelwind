@@ -49,9 +49,7 @@
 					this.$parent.backgroundImg = this.project.gallery[index].src;
 				},
 				goHome() {
-					this.$router.push({
-						name: 'Home'
-					})
+					window.history.back();
 				}
 		},
 		events: {

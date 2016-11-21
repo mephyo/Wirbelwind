@@ -3,7 +3,9 @@
 		<div class="background">
 			<img :src="backgroundImg" class="background-img" />
 		</div>
-		<router-view></router-view>
+		<transition name="fade">
+			<router-view></router-view>
+		</transition>
 	</div>
 </template>
 
