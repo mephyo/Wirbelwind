@@ -1,8 +1,9 @@
 <template>
 	<div>
+		<div class="go-home icon_back" @click="goHome"></div>
 		<ul class="gallery" :class="{'ghost blurred': darkroom}">
 			<li v-for="photo, index in project.gallery">
-				<img :src="photo.src" @click="lightsOff(index)" />
+				<img v-lazy="photo.src" @click="lightsOff(index)" />
 				<div class="title" v-if="photo.title">{{photo.title}}</div>
 			</li>
 		</ul>
@@ -44,6 +45,11 @@
 					this.darkroom = true;
 					this.$parent.lights = false;
 					this.$parent.backgroundImg = this.project.gallery[index].src;
+				},
+				goHome() {
+					this.$router.push({
+						name: 'Home'
+					})
 				}
 		},
 		events: {

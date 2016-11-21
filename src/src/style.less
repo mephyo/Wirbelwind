@@ -162,31 +162,19 @@ ul {
 			width: 30px;
 			div {
 				margin: 3px;
+				-webkit-filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.25));
 			}
 		}
 	}
 }
 
 .go-home {
-	display: none;
-	height: 36px;
-	width: 36px;
+	height: 24px;
+	width: 24px;
 	position: fixed;
 	top: 0;
 	left: 0;
-	.icon-home {
-		margin: 6px;
-		-webkit-filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.25));
-		-webkit-filter: blur(1px);
-	}
-}
-
-.go-home:hover .icon-home {
-	margin: 4px;
-	width: 28px;
-	height: 28px;
-	background-size: 28px 28px;
-	-webkit-filter: blur(0);
+	-webkit-filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.25));
 }
 
 .ghost {
@@ -237,6 +225,14 @@ ul {
 	width: 24px;
 	height: 24px;
 	transform: rotate(90deg);
+}
+
+.icon-back {
+	background-image: url(./img/icon_back.svg);
+	background-repeat: no-repeat;
+	background-size: 24px 24px;
+	width: 24px;
+	height: 24px;
 }
 
 .fade-enter-active,

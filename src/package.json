@@ -12,6 +12,7 @@
     "less": "^2.7.1",
     "less-loader": "^2.2.3",
     "vue": "^2.0.1",
+    "vue-lazyload": "^0.9.2",
     "vue-router": "^2.0.2",
     "vue-touch": "git://github.com/vuejs/vue-touch.git#next"
   },
