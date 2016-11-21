@@ -2,227 +2,227 @@ export default [{
 	'name': 'Lemon',
 	'codeName': 'lemon',
 	'gallery': [{
-		'src': 'http://mpy.eu5.org/gallery/lemon/1.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/1.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemon/2.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/2.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemon/3.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/3.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemon/4.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/4.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemon/5.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/5.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemon/6.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/6.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemon/7.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/7.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemon/8.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/8.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemon/9.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/9.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemon/10.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/10.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemon/11.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/11.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemon/12.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/12.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemon/13.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/13.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemon/14.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/14.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemon/15.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemon/15.jpg'
     }]
 }, {
 	'name': 'Elapse',
 	'codeName': 'elapse',
 	'gallery': [{
-		'src': 'http://mpy.eu5.org/gallery/elapse/1.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/1.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/2.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/2.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/3.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/3.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/4.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/4.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/5.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/5.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/6.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/6.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/7.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/7.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/8.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/8.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/9.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/9.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/10.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/10.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/11.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/11.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/12.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/12.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/13.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/13.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/14.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/14.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/15.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/15.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/elapse/16.jpg'
+		'src': 'https://mephyo.github.io/gallery/elapse/16.jpg'
 	}]
 }, {
 	'name': 'Irene',
 	'codeName': 'irene',
 	'gallery': [{
-		'src': 'http://mpy.eu5.org/gallery/irene/1.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/1.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/2.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/2.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/3.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/3.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/4.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/4.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/5.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/5.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/6.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/6.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/7.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/7.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/8.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/8.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/9.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/9.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/10.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/10.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/11.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/11.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/12.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/12.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/13.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/13.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/14.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/14.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/15.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/15.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/irene/16.jpg'
+		'src': 'https://mephyo.github.io/gallery/irene/16.jpg'
     }]
 }, {
 	'name': 'Lemon In Spring',
 	'codeName': 'lemoninspring',
 	'gallery': [{
-		'src': 'http://mpy.eu5.org/gallery/lemoninspring/1.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemoninspring/1.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemoninspring/2.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemoninspring/2.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemoninspring/3.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemoninspring/3.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemoninspring/4.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemoninspring/4.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemoninspring/5.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemoninspring/5.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemoninspring/6.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemoninspring/6.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemoninspring/7.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemoninspring/7.jpg'
     }]
 }, {
 	'name': 'Lemon In Summer',
 	'codeName': 'lemoninsummer',
 	'gallery': [{
-		'src': 'http://mpy.eu5.org/gallery/lemoninsummer/1.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemoninsummer/1.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemoninsummer/2.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemoninsummer/2.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemoninsummer/3.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemoninsummer/3.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemoninsummer/4.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemoninsummer/4.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemoninsummer/5.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemoninsummer/5.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemoninsummer/6.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemoninsummer/6.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lemoninsummer/7.jpg'
+		'src': 'https://mephyo.github.io/gallery/lemoninsummer/7.jpg'
     }]
 }, {
 	'name': 'Lisa',
 	'codeName': 'lisa',
 	'gallery': [{
-		'src': 'http://mpy.eu5.org/gallery/lisa/1.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/1.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/2.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/2.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/3.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/3.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/4.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/4.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/5.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/5.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/6.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/6.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/7.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/7.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/8.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/8.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/9.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/9.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/10.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/10.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/11.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/11.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/12.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/12.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/13.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/13.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/14.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/14.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/15.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/15.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/16.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/16.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/17.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/17.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/18.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/18.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/19.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/19.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/20.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/20.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/21.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/21.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/22.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/22.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/23.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/23.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/24.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/24.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/25.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/25.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa/26.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisa/26.jpg'
     }]
 }, {
-	'name': 'Lisa~',
-	'codeName': 'lisa~',
+	'name': 'Lisa Undressed',
+	'codeName': 'lisaundressed',
 	'gallery': [{
-		'src': 'http://mpy.eu5.org/gallery/lisa~/1.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisaundressed/1.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa~/2.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisaundressed/2.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa~/3.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisaundressed/3.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa~/4.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisaundressed/4.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa~/5.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisaundressed/5.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa~/6.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisaundressed/6.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa~/7.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisaundressed/7.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa~/8.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisaundressed/8.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa~/9.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisaundressed/9.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa~/10.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisaundressed/10.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa~/11.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisaundressed/11.jpg'
     }, {
-		'src': 'http://mpy.eu5.org/gallery/lisa~/12.jpg'
+		'src': 'https://mephyo.github.io/gallery/lisaundressed/12.jpg'
     }]
 }, {
 	'name': 'Afternoon',
@@ -315,3 +315,23 @@ export default [{
 		'src': 'http://s6.postimg.org/59w8jswxt/_MPY1535.jpg'
     }]
 }]
+
+//export default [{
+//	'name': 'Lemon',
+//	'codeName': 'lemon',
+//	'gallery': [{
+//		'src': 'https://mephyo.github.io/gallery/test/test-upload-1.gif'
+//    }, {
+//		'src': 'https://mephyo.github.io/gallery/test/test-upload-2.gif'
+//    }, {
+//		'src': 'https://mephyo.github.io/gallery/test/test-upload-3.gif'
+//    }, {
+//		'src': 'https://mephyo.github.io/gallery/test/test-upload-4.gif'
+//    }, {
+//		'src': 'https://mephyo.github.io/gallery/test/test-upload-5.gif'
+//    }, {
+//		'src': 'https://mephyo.github.io/gallery/test/test-upload-6.gif'
+//    }, {
+//		'src': 'https://mephyo.github.io/gallery/test/test-upload-7.gif'
+//    }]
+//}]

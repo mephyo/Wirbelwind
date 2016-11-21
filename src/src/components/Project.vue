@@ -1,6 +1,8 @@
 <template>
-	<div>
-		<div class="go-home icon_back" @click="goHome"></div>
+	<div class="stage" :class="{'lights-on': lights, 'lights-off': !lights}">
+		<div class="go-home" @click="goHome">
+			<div class="icon-back"></div>
+		</div>
 		<ul class="gallery" :class="{'ghost blurred': darkroom}">
 			<li v-for="photo, index in project.gallery">
 				<img v-lazy="photo.src" @click="lightsOff(index)" />

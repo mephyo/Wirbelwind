@@ -1,10 +1,12 @@
 <template>
-	<ul class="overture">
-		<li v-for="project in Gallery" @click="goProject(project.codeName)">
-			<img :src="project.gallery[0].src" />
-			<div class="title">{{project.name}}</div>
-		</li>
-	</ul>
+	<div class="stage" :class="{'lights-on': lights, 'lights-off': !lights}">
+		<ul class="overture">
+			<li v-for="project in Gallery" @click="goProject(project.codeName)">
+				<img :src="project.gallery[0].src" />
+				<div class="title">{{project.name}}</div>
+			</li>
+		</ul>
+	</div>
 </template>
 <script>
 	import Gallery from '../Gallery'
