@@ -10,6 +10,9 @@
 			</li>
 		</ul>
 		<darkroom v-if="darkroom" :project="project" :index="index"></darkroom>
+		<div class="tail">
+			<div class="find-me">喜欢？</div>
+		</div>
 	</div>
 </template>
 
