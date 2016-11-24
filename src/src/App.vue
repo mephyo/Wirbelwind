@@ -2,6 +2,7 @@
 	<div>
 		<div class="background">
 			<img :src="backgroundImg" class="background-img" />
+			<div class="background-scrim" :class="{'lights-on': lights, 'lights-off': !lights}"></div>
 		</div>
 		<transition name="fade">
 			<router-view></router-view>

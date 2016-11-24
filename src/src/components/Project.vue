@@ -1,5 +1,5 @@
 <template>
-	<div class="stage" :class="{'lights-on': lights, 'lights-off': !lights}">
+	<div class="stage">
 		<div class="go-home" @click="goHome">
 			<div class="icon-back"></div>
 		</div>
@@ -11,7 +11,9 @@
 		</ul>
 		<darkroom v-if="darkroom" :project="project" :index="index"></darkroom>
 		<div class="tail">
-			<div class="find-me">喜欢？</div>
+			<router-link to="/apply">
+				<div class="find-me">&nbsp;喜欢这样的照片?</div>
+			</router-link>
 		</div>
 	</div>
 </template>

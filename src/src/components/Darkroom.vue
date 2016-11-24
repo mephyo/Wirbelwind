@@ -33,7 +33,7 @@
 		},
 		methods: {
 			lightsOn() {
-				this.$parent.$parent.lights = false;
+				this.$parent.$parent.lights = true ;
 				this.$parent.darkroom = false
 			},
 			change() {

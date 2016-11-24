@@ -1,5 +1,5 @@
 <template>
-	<div class="stage" :class="{'lights-on': lights, 'lights-off': !lights}">
+	<div class="stage">
 		<ul class="overture">
 			<li v-for="project in Gallery" @click="goProject(project.codeName)">
 				<img :src="project.gallery[0].src" />
