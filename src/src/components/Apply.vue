@@ -31,7 +31,7 @@
 			<template v-if="step === 4">
 				<h2>这是你的神秘代码</h2>
 				<code>{{magicCode}}</code>
-				<p>复制以上代码，发送至公众号 Wirbelwind 来与我进行深入友好的交流吧。</p>
+				<p>复制以上代码，发送至公众号 Wirbelwind 来与我进行深♂入♂友♂好♂亲♂切的交流吧。</p>
 			</template>
 		</div>
 	</div>
