@@ -19,7 +19,7 @@
 		data() {
 			return {
 				Gallery: Gallery,
-				backgroundImg: 'https://mephyo.github.io/gallery/lemon/1.jpg',
+				backgroundImg: 'https://mephyo.github.io/gallery/yellow/7.jpg',
 				lights: true
 			}
 		}

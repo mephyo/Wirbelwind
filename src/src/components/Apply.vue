@@ -30,15 +30,8 @@
 			</template>
 			<template v-if="step === 4">
 				<h2>这是你的神秘代码</h2>
-				<code>
-					<span v-if="modelData.halfPrice">H</span>
-					<span v-else>h</span>
-					<span v-if="modelData.needTrip">N</span>
-					<span v-else>n</span>
-					<span v-if="modelData.place">P</span>
-					<span v-else>p</span>
-				</code>
-				<p>复制以上代码，发送至公众号 Wirbelwind 来与我进行深入友好的交流。</p>
+				<code>{{magicCode}}</code>
+				<p>复制以上代码，发送至公众号 Wirbelwind 来与我进行深入友好的交流吧。</p>
 			</template>
 		</div>
 	</div>
@@ -144,6 +137,31 @@
 								'value': 'indoor',
 						}]
 					},
+				}
+			},
+			computed: {
+				magicCode() {
+					var halfPrice;
+					var needTrip;
+					var place;
+					if (this.modelData.halfPrice === true) {
+						halfPrice = 'Hotel'
+					} else {
+						halfPrice = 'Papa'
+					};
+					if (this.modelData.needTrip === true) {
+						needTrip = 'November'
+					} else {
+						needTrip = 'Tango'
+					};
+					if (this.modelData.place === 'field') {
+						place = 'Foxtrot'
+					} else if (this.modelData.place === 'city') {
+						place = 'Charlie'
+					} else if (this.modelData.place === 'indoor') {
+						place = 'India'
+					};
+					return halfPrice + needTrip + place
 				}
 			},
 			methods: {

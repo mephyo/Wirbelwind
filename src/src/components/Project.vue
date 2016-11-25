@@ -1,6 +1,6 @@
 <template>
 	<div class="stage">
-		<div class="go-home" @click="goHome">
+		<div class="go-home" @click="goHome" v-if="false">
 			<div class="icon-back"></div>
 		</div>
 		<ul class="gallery" :class="{'ghost blurred': darkroom}">
@@ -9,12 +9,12 @@
 				<div class="title" v-if="photo.title">{{photo.title}}</div>
 			</li>
 		</ul>
-		<darkroom v-if="darkroom" :project="project" :index="index"></darkroom>
 		<div class="tail">
-			<router-link to="/apply">
+			<router-link to="/apply" v-if="!darkroom">
 				<div class="find-me">&nbsp;喜欢这样的照片?</div>
 			</router-link>
 		</div>
+		<darkroom v-if="darkroom" :project="project" :index="index"></darkroom>
 	</div>
 </template>
 
