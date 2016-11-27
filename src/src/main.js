@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import VueTouch from 'vue-touch'
-import VueLazyload from 'vue-lazyload'
 import App from './App'
 import Overture from './components/Overture';
 import About from './components/About';
@@ -10,12 +9,6 @@ import Project from './components/Project';
 
 Vue.use(Router)
 Vue.use(VueTouch)
-Vue.use(VueLazyload, {
-	preLoad: 1.5,
-	error: '../static/img/img_error.png',
-	loading: '../static/img/img_error.png',
-	attempt: 3
-})
 
 import './style.less'
 

@@ -16,21 +16,7 @@ export default [{
     }, {
 		'src': 'https://mephyo.github.io/gallery/lemon/7.jpg'
     }, {
-		'src': 'https://mephyo.github.io/gallery/lemon/8.jpg'
-    }, {
 		'src': 'https://mephyo.github.io/gallery/lemon/9.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/lemon/10.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/lemon/11.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/lemon/12.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/lemon/13.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/lemon/14.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/lemon/15.jpg'
     }]
 }, {
 	'name': 'Elapse',
@@ -44,12 +30,6 @@ export default [{
     }, {
 		'src': 'https://mephyo.github.io/gallery/elapse/4.jpg'
     }, {
-		'src': 'https://mephyo.github.io/gallery/elapse/5.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/elapse/6.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/elapse/7.jpg'
-    }, {
 		'src': 'https://mephyo.github.io/gallery/elapse/8.jpg'
     }, {
 		'src': 'https://mephyo.github.io/gallery/elapse/9.jpg'
@@ -58,141 +38,99 @@ export default [{
     }, {
 		'src': 'https://mephyo.github.io/gallery/elapse/11.jpg'
     }, {
-		'src': 'https://mephyo.github.io/gallery/elapse/12.jpg'
-    }, {
 		'src': 'https://mephyo.github.io/gallery/elapse/13.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/elapse/14.jpg'
     }, {
 		'src': 'https://mephyo.github.io/gallery/elapse/15.jpg'
     }, {
 		'src': 'https://mephyo.github.io/gallery/elapse/16.jpg'
 	}]
-}, {
-	'name': 'Irene',
-	'codeName': 'irene',
-	'gallery': [{
-		'src': 'https://mephyo.github.io/gallery/irene/1.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/2.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/3.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/4.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/5.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/6.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/7.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/8.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/9.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/10.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/11.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/12.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/13.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/14.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/15.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/irene/16.jpg'
-    }]
-}, {
+},  {
 	'name': 'Afternoon',
 	'codeName': 'afternoon',
 	'gallery': [{
-		'src': 'http://s6.postimg.org/m3j26f7b5/_MPY1272.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/1.jpg'
     }, {
-		'src': 'http://s6.postimg.org/6w32m2fgh/_MPY1278.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/2.jpg'
     }, {
-		'src': 'http://s6.postimg.org/vdv69yi0x/_MPY1305.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/3.jpg'
     }, {
-		'src': 'http://s6.postimg.org/lulhghuip/_MPY1310.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/4.jpg'
     }, {
-		'src': 'http://s6.postimg.org/4il4v211d/_MPY1312.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/5.jpg'
     }, {
-		'src': 'http://s6.postimg.org/ze2bm78ht/_MPY1324.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/6.jpg'
     }, {
-		'src': 'http://s6.postimg.org/w8hpvzpvl/_MPY1330.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/7.jpg'
     }, {
-		'src': 'http://s6.postimg.org/5c2c1ewg1/_MPY1333.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/8.jpg'
     }, {
-		'src': 'http://s6.postimg.org/62v276ytd/_MPY1356.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/9.jpg'
     }, {
-		'src': 'http://s6.postimg.org/bsbari4zl/_MPY1360.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/10.jpg'
     }, {
-		'src': 'http://s6.postimg.org/65exu12gx/_MPY1365.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/11.jpg'
     }, {
-		'src': 'http://s6.postimg.org/ec6xllsjl/_MPY1366.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/12.jpg'
     }, {
-		'src': 'http://s6.postimg.org/5v7faonup/_MPY1370.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/13.jpg'
     }, {
-		'src': 'http://s6.postimg.org/vs13nari9/_MPY1374.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/14.jpg'
     }, {
-		'src': 'http://s6.postimg.org/9hd8nbu81/_MPY1379.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/15.jpg'
     }, {
-		'src': 'http://s6.postimg.org/t4g8qonup/_MPY1382.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/16.jpg'
     }, {
-		'src': 'http://s6.postimg.org/649lecq0x/_MPY1388.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/17.jpg'
     }, {
-		'src': 'http://s6.postimg.org/539cp891d/_MPY1392.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/18.jpg'
     }, {
-		'src': 'http://s6.postimg.org/wrvzwqw1t/_MPY1399.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/19.jpg'
     }, {
-		'src': 'http://s6.postimg.org/l41y276wx/_MPY1404.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/20.jpg'
     }, {
-		'src': 'http://s6.postimg.org/av9gwdiv5/_MPY1408.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/21.jpg'
     }, {
-		'src': 'http://s6.postimg.org/qi0q9qwn5/_MPY1412.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/22.jpg'
     }, {
-		'src': 'http://s6.postimg.org/u2wlsz16p/_MPY1414.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/23.jpg'
     }, {
-		'src': 'http://s6.postimg.org/7s8qt03wh/_MPY1439.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/24.jpg'
     }, {
-		'src': 'http://s6.postimg.org/mcuf1ko8x/_MPY1442.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/25.jpg'
     }, {
-		'src': 'http://s6.postimg.org/vynzhvfep/_MPY1448.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/26.jpg'
     }, {
-		'src': 'http://s6.postimg.org/tvdka7flt/_MPY1451.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/27.jpg'
     }, {
-		'src': 'http://s6.postimg.org/d8w014mo1/_MPY1452.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/28.jpg'
     }, {
-		'src': 'http://s6.postimg.org/jnv0xstdt/_MPY1482.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/29.jpg'
     }, {
-		'src': 'http://s6.postimg.org/p0jvbxha9/_MPY1483.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/30.jpg'
     }, {
-		'src': 'http://s6.postimg.org/nzjmmt0ap/_MPY1495.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/31.jpg'
     }, {
-		'src': 'http://s6.postimg.org/467iu3mwx/_MPY1498.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/32.jpg'
     }, {
-		'src': 'http://s6.postimg.org/vi2rvfrnl/_MPY1504.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/33.jpg'
     }, {
-		'src': 'http://s6.postimg.org/4ya6tar41/_MPY1505.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/34.jpg'
     }, {
-		'src': 'http://s6.postimg.org/itd2piawx/_MPY1506.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/35.jpg'
     }, {
-		'src': 'http://s6.postimg.org/mr0cewxq9/_MPY1508.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/36.jpg'
     }, {
-		'src': 'http://s6.postimg.org/qbw7y529t/_MPY1520.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/37.jpg'
     }, {
-		'src': 'http://s6.postimg.org/l1r96ui0x/_MPY1523.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/38.jpg'
     }, {
-		'src': 'http://s6.postimg.org/dztbknef5/_MPY1525.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/39.jpg'
     }, {
-		'src': 'http://s6.postimg.org/dobv7vxz5/_MPY1531.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/40.jpg'
     }, {
-		'src': 'http://s6.postimg.org/dcuev4hj5/_MPY1532.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/41.jpg'
     }, {
-		'src': 'http://s6.postimg.org/5ldowkddt/_MPY1534.jpg'
-    }, {
-		'src': 'http://s6.postimg.org/59w8jswxt/_MPY1535.jpg'
+		'src': 'https://mephyo.github.io/gallery/afternoon/42.jpg'
     }]
 }, {
 	'name': 'Lemon In Spring',
@@ -306,82 +244,4 @@ export default [{
     }, {
 		'src': 'https://mephyo.github.io/gallery/lisaundressed/8.jpg'
     }]
-}, {
-	'name': 'Yellow',
-	'codeName': 'yellow',
-	'gallery': [{
-		'src': 'https://mephyo.github.io/gallery/yellow/1.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/2.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/3.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/4.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/5.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/6.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/7.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/8.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/9.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/10.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/11.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/12.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/13.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/14.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/15.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/16.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/17.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/18.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/19.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/20.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/21.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/22.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/23.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/24.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/25.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/26.jpg'
-    }, {
-		'src': 'https://mephyo.github.io/gallery/yellow/27.jpg'
-    }]
 }]
-
-//export default [{
-//	'name': 'Test',
-//	'codeName': 'test',
-//	'gallery': [{
-//		'src': 'https://mephyo.github.io/gallery/test/test-upload-1.gif'
-//    }, {
-//		'src': 'https://mephyo.github.io/gallery/test/test-upload-2.gif'
-//    }, {
-//		'src': 'https://mephyo.github.io/gallery/test/test-upload-3.gif'
-//    }, {
-//		'src': 'https://mephyo.github.io/gallery/test/test-upload-4.gif'
-//    }, {
-//		'src': 'https://mephyo.github.io/gallery/test/test-upload-5.gif'
-//    }, {
-//		'src': 'https://mephyo.github.io/gallery/test/test-upload-6.gif'
-//    }, {
-//		'src': 'https://mephyo.github.io/gallery/test/test-upload-7.gif'
-//    }]
-//}]
