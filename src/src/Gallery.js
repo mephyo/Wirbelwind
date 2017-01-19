@@ -45,7 +45,7 @@ export default [{
 		'src': 'https://mephyo.github.io/gallery/elapse/16.jpg'
 	}]
 },  {
-	'name': 'Afternoon',
+	'name': 'Lemon',
 	'codeName': 'afternoon',
 	'gallery': [{
 		'src': 'https://mephyo.github.io/gallery/afternoon/1.jpg'
@@ -133,7 +133,7 @@ export default [{
 		'src': 'https://mephyo.github.io/gallery/afternoon/42.jpg'
     }]
 }, {
-	'name': 'Lemon In Spring',
+	'name': 'Lemon',
 	'codeName': 'lemoninspring',
 	'gallery': [{
 		'src': 'https://mephyo.github.io/gallery/lemoninspring/1.jpg'
@@ -151,7 +151,7 @@ export default [{
 		'src': 'https://mephyo.github.io/gallery/lemoninspring/7.jpg'
     }]
 }, {
-	'name': 'Lemon In Summer',
+	'name': 'Lemon',
 	'codeName': 'lemoninsummer',
 	'gallery': [{
 		'src': 'https://mephyo.github.io/gallery/lemoninsummer/1.jpg'
@@ -225,7 +225,7 @@ export default [{
 		'src': 'https://mephyo.github.io/gallery/lisa/26.jpg'
     }]
 }, {
-	'name': 'Lisa Undressed',
+	'name': 'Lisa',
 	'codeName': 'lisaundressed',
 	'gallery': [{
 		'src': 'https://mephyo.github.io/gallery/lisaundressed/1.jpg'

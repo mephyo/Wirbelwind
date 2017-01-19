@@ -24,13 +24,13 @@ ul {
 	position: fixed;
 	top: -10%;
 	left: -10%;
-	-webkit-filter: blur(100px);
 	z-index: -1;
 	pointer-events: none;
 	.background-img {
 		width: 100%;
 		height: 100%;
 		object-fit: cover;
+		-webkit-filter: grayscale(1) brightness(0.5);
 	}
 	.background-scrim {
 		position: absolute;
@@ -57,15 +57,17 @@ ul {
 		height: 80px;
 		margin: 20px;
 		position: relative;
+		border: 1px solid rgba(255,255,255,0.5);
+		border-radius: 40px;
 		-webkit-user-select: none;
 		img {
 			width: 80px;
 			height: 80px;
 			border-radius: 40px;
 			object-fit: cover;
-			-webkit-filter: blur(20px);
 			transition: 0.25s;
 			pointer-events: none;
+			-webkit-filter: brightness(0.75);
 			-webkit-user-select: none;
 		}
 		.title {
@@ -80,7 +82,7 @@ ul {
 			font-style: italic;
 			font-weight: 200;
 			font-size: 1.25em;
-			color: rgba(255, 255, 255, 0.25);
+			color: rgba(255, 255, 255, 0.75);
 			transition: 1s;
 			pointer-events: none;
 			white-space: nowrap;
@@ -90,7 +92,7 @@ ul {
 		}
 	}
 	li:active img {
-		-webkit-filter: blur(0);
+		-webkit-filter: brightness(1);
 		box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.125), 0 16px 32px 0 rgba(0, 0, 0, 0.25);
 	}
 	li:active .title {
@@ -283,7 +285,7 @@ ul {
 }
 
 .lights-off {
-	background-color: transparent;
+	background-color: rgba(0, 0, 0, 0.5);
 }
 
 .icon-home {
